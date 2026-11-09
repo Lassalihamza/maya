@@ -1,0 +1,6 @@
+{
+  "name": "Institut de beauté Maya",
+  "description": "Site officiel de l'Institut de beauté Maya — Atelier de coiffure haut de gamme, balayage d'exception et coiffures mariées en Algérie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
